@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\obj\Debug\Interfaces1CSharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\obj\Debug\Interfaces1CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\obj\Debug\Interfaces1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\bin\Debug\Interfaces1CSharp.exe.config
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\bin\Debug\Interfaces1CSharp.exe
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\bin\Debug\Interfaces1CSharp.pdb
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\obj\Debug\Interfaces1CSharp.exe
+C:\Users\sande\source\repos\Interfaces1CSharp\Interfaces1CSharp\obj\Debug\Interfaces1CSharp.pdb
